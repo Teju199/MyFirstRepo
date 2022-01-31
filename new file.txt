@@ -1,5 +1,4 @@
 Hello 
 Hi
-
-Hi from Bangalore. 
-
+How are you?
+Hi from Bangalore.
