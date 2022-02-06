@@ -12,16 +12,16 @@ public class PrimeNumbersString {
 
                 for (i = 2; i < n; i++) {
                     flag = 0;
-                    for (j=2; j<=(i/2); j++){
+                    for (j = 2; j <= (i / 2); j++) {
                         if ((i % j) == 0) {
                             flag = 1;
                             break;
                         }
                     }
                     if (flag == 0) {
-                        System.out.println(i + " is the Prime number.");
+                        System.out.print(" " + i);
                     }
-            }
+                }
 
         }
     }
